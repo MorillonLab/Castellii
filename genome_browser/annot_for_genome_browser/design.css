@@ -1,0 +1,153 @@
+body
+{
+  font-family:Tahoma;
+  font-size:15px;
+  width:1200px;
+  margin:auto;
+}
+
+table, th, td
+{
+border: none;
+}
+
+table
+{
+border-collapse:collapse;
+width:100%;
+}
+
+.analyse table
+{
+  width:auto;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.analyse td
+{
+  border:1px solid black;
+}
+
+th
+{
+height:50px;
+text-align:center;
+padding:5px;
+}
+
+td
+{
+text-align:center;
+vertical-align:top;
+padding:5px;
+}
+
+.lignePaire
+{
+  background-color:#DDFFDD;
+}
+
+th, h1
+{
+background-color:green;
+color:white;
+}
+
+p, form, h1, h2, h4, ul, ol
+{
+  text-align:center;
+}
+
+img
+{
+  margin:0px;
+}
+
+a
+{
+  text-decoration:none;
+}
+
+a, a:visited, a:hover, a:focus
+{
+  color:blue;
+}
+
+#pied_de_page
+{
+  clear:both;
+  text-align:right;
+  color:gray;
+}
+
+h3
+{
+  text-align:right;
+}
+
+.navigatorbas, #description
+{
+  width: 800px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+#navigatorhaut
+{
+  width: 1200px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+#formulairehaut
+{
+  width: 400px;
+  float: left;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+#legendhaut
+{
+  width: 400px;
+  float: left;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+#liensdirects
+{
+  height: 220px;
+  width: 400px;
+  float: left;
+  text-align:center;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+#description
+{
+  text-align: justify;
+}
+
+.flechegauche
+{
+  float: left;
+}
+
+.flechedroite
+{
+  float: right;
+}
+
+a img
+{
+  border: none;
+  vertical-align: middle;
+}
+
+hr
+{
+  clear: both;
+}

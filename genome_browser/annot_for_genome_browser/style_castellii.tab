@@ -1,0 +1,13 @@
+Type	col	label	shape	Strand
+tRNA	3	1	box	+
+snoRNA	3	1	box	+
+XUT	2	1	box	+
+SUT	5	1	box	+
+gene	#8080FF	1	box	+
+aslncRNA	6	1	box	+
+tRNA	3	1	box	-
+snoRNA	3	1	box	-
+XUT	2	1	box	-
+SUT	5	1	box	-
+gene	#8080FF	1	box	-
+aslncRNA	6	1	box	-
