@@ -17,7 +17,7 @@ titre_page=""
 texte_description="."
 
 # string, folder of files used in main, style file, design.css, ...
-common_files_dir : répertoire des fichiers style, design.css, etc...
+common_files_dir = "annot_for_genome_browser"
 
 # integer, size visualisation window 
 
@@ -92,6 +92,8 @@ typeVisu = c("")
 
 isVisuLog = T or F
 
-# launch genome browser
+#  ***************************
+#  *  launch genome browser  *
+#  ***************************
 
 source("~/SCRIPTS/BAMTOHTML/bamToHTML_main_v2.6_corrected.R") 
