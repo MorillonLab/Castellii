@@ -27,7 +27,8 @@ taille_fenetre = 15000
 
 decal = 5000
 
-# Data frame, Type (transcripts type, as in annotation file), col (color), label (ID shown)
+# Data frame, Type (transcripts type, as in annotation file), col (color), label (ID shown), 
+# shape ("box", "rectangle", "arrow"), Strand ("+", "-")
 
 style = read.table(paste0(common_files_dir, "style.tab"), sep="\t",as.is=TRUE,header=TRUE)
 
